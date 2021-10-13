@@ -1,6 +1,6 @@
 package exercise1;
 
-public class FDIBAOutput {
+public class FdibaOutput {
     public static void main(String[] args){
         System.out.println("FFFFF DDDDD   II BBBBB      A\n" +
                 "F     D    D  II B    B    A A\n" +
